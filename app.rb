@@ -9,7 +9,7 @@ end
 post '/team' do
 
 erb :team
-puts params
+@team_name = params[:name]
   #erb :
 end
 
