@@ -10,7 +10,7 @@ post '/team' do
 
 erb :team
 @team_name = params[:name]
-  #erb :
+  erb :team
 end
 
 
