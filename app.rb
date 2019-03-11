@@ -9,6 +9,7 @@ end
 post '/team' do
 
 erb :team
+puts params
   #erb :
 end
 
