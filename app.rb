@@ -8,6 +8,7 @@ end
 
 post '/team' do
 
+erb :team
   #erb :
 end
 
